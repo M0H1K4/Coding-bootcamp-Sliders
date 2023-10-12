@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 24px;
+  margin-top: 25px;
 }
 footer {
   background-image: url("./coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg");

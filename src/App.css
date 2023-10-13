@@ -8,6 +8,7 @@ footer {
   background-image: url("./coding-bootcamp-testimonials-slider-master/images/pattern-curve.svg");
   background-repeat: no-repeat;
   background-size: 100% ;
+  background-position: bottom ;
   height:199px ;
   width: 375px;
 }
